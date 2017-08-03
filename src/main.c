@@ -46,6 +46,7 @@ get_new_key:;
                 direction = dir_up;
                 break;
             case 'q':
+            case 27:
                 game_running = false;
                 break;
             default:
