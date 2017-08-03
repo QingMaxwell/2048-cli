@@ -1,3 +1,5 @@
+/* add some test here */
+
 #include <stdio.h>
 #include <stdbool.h>
 #include "ai.h"
